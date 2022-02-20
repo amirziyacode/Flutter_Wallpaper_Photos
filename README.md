@@ -7,7 +7,15 @@
 
 A new Flutter project Wallt [UI](https://dribbble.com/shots/15976540-Live-Wallpaper-4k/attachments/7813104?mode=media)
 
-Use this source code in your project with animation 
+Wallpaper : 
+ - Useing Api
+ - Serach page
+ - Splash screen
+ - You can download images 
+ - You can use image for background and Lock screen
+ - ....... . ... .. . . . . . .. . .. . . . . . .. . 
+
+Use this source code in your project with  a lot animation 
 
  Rate me ⭐
 
