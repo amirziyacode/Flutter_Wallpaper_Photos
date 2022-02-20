@@ -129,14 +129,13 @@ class _ImagepageState extends State<Imagepage> {
                                   color: query == QuerytagFilters[i].title.toString() ?   Colors.yellow: colorr ,
                                   borderRadius: BorderRadius.circular(20)
                               ),
-                              child:  Row(
+                              child:Row(
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 children:  [
-                                   ClipRRect(
-                                     borderRadius : BorderRadius.circular(40),
+                                   ClipOval(
                                      child: CachedNetworkImage(imageUrl: QuerytagFilters[i].images.toString(),
-                                     width: 35,
-                                     height: 35
+                                     width: 40,
+                                     height: 40,
                                     ),
                                    ), 
                                   SizedBox(                              

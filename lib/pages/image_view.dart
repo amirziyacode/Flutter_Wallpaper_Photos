@@ -31,7 +31,7 @@ class _viewImagesState extends State<viewImages> {
       if (imageId == null) {
         return;
       }
-
+      
       // Below is a method of obtaining saved image information.
       var fileName = await ImageDownloader.findName(imageId);
       var path = await ImageDownloader.findPath(imageId);
