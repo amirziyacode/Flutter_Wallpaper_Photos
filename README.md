@@ -1,6 +1,32 @@
+![Swiper](https://www.androidauthority.com/wp-content/uploads/2021/09/Wallpaper-Engine-Steam-App.jpg)
+[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/amirziyacode)
+[![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
+
+
 # wallpaperr
 
-A new Flutter project.
+A new Flutter project Wallt [UI](https://dribbble.com/shots/15976540-Live-Wallpaper-4k/attachments/7813104?mode=media)
+
+Use this source code in your project with animation 
+
+ Rate me ⭐
+
+Thank you ☺
+
+## Platform
+
+Android ✔️
+
+Ios ✔️
+
+
+
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
 ## Getting Started
 
