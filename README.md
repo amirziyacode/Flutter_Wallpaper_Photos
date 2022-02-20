@@ -9,6 +9,7 @@ A new Flutter project Wallt [UI](https://dribbble.com/shots/15976540-Live-Wallpa
 
 Wallpaper : 
  - Useing Api
+ - Animation
  - Serach page
  - Splash screen
  - You can download images 
