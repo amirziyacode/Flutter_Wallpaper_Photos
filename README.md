@@ -22,6 +22,9 @@ Use this source code in your project with  a lot animation
 
 Thank you ☺
 
+## Preview
+![Wallet](https://s6.uupload.ir/files/flutter_wallpaper0101_876z.gif)
+
 ## Platform
 
 Android ✔️
